@@ -1,3 +1,7 @@
+My ERD:
+
+![ERD](Images/ERD.jpg)
+
 # Unit 7 Homework Assignment: Looking for Suspicious Transactions
 
 ![Credit card fraudster](Images/credit_card_fraudster.jpg)
